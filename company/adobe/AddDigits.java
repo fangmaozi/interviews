@@ -18,8 +18,6 @@ class AddDigits {
             num = temp;
         }
         
-        System.out.println("print:" + num);
-        
         return num;
     }
 }
